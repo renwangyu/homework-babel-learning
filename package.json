@@ -1,0 +1,18 @@
+{
+  "name": "homework-babel-learning",
+  "version": "1.0.0",
+  "description": "learning babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel"
+  ],
+  "author": "renwangyu",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/parser": "^7.15.8",
+    "acorn": "^8.5.0"
+  }
+}
